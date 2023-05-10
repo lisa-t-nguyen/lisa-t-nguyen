@@ -4,7 +4,7 @@
 
 
 - 🤓 I'm currently enhancing my skills in - JavaScript, React
-- 👩‍💻 Stack - React, JavaScript, CSS3, HTML5, Node.js, Express
+- 👩‍💻 Stack - React.js, JavaScript, CSS, HTML, Node.js, Express
 - 🧰 Tools - Material UI, Bootstrap, npm, PostgreSQL, Babel, Webpack, Git, GitHub, Slack, Figma
 - 🧠 Open to learning anything and everything!
 
